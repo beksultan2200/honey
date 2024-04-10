@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.012" height="46.704" viewBox="0 0 67.012 46.704">
+  <g transform="translate(1.191 1.194)">
+    <g transform="translate(0 -0.001)">
+      <path d="M201.985,140.9A14.091,14.091,0,1,0,181.2,151.354" transform="translate(-166.789 -117.782)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+      <g>
+        <g transform="translate(6.532 5.198)">
+          <line x2="1.857" y2="2.028" transform="translate(0)" stroke="#353a3a" stroke-width="2"></line>
+        </g>
+        <g transform="translate(0.487 14.69)">
+          <line x2="2.626" y2="0.829" stroke="#353a3a" stroke-width="2"></line>
+        </g>
+        <g transform="translate(0 16.529)">
+          <line y1="0.598" x2="2.679" transform="translate(39.793)" stroke="#353a3a" stroke-width="2"></line>
+          <line y1="0.587" x2="2.679" transform="translate(0 8.823)" stroke="#353a3a" stroke-width="2"></line>
+        </g>
+        <g transform="translate(5.194 6.535)">
+          <line y1="1.857" x2="2.028" transform="translate(30.048)" stroke="#353a3a" stroke-width="2"></line>
+          <line y1="1.85" x2="2.021" transform="translate(0 27.54)" stroke="#353a3a" stroke-width="2"></line>
+        </g>
+        <g transform="translate(26.949 0.484)">
+          <line y1="2.626" x2="0.818" transform="translate(0)" stroke="#353a3a" stroke-width="2"></line>
+        </g>
+        <g transform="translate(16.525)">
+          <line x1="0.594" y1="2.682" transform="translate(0)" stroke="#353a3a" stroke-width="2"></line>
+        </g>
+      </g>
+    </g>
+    <path d="M166.234,151.367a10.063,10.063,0,0,1-.4-2.751,9.877,9.877,0,0,1,16.448-7.4.433.433,0,0,0,.685-.266,12.809,12.809,0,0,1,25.37-1.424c.047.255.477.638.663.587a9.138,9.138,0,0,1,2.689-.415,8.919,8.919,0,0,1,8.922,8.918,8.825,8.825,0,0,1-.444,2.751Z" transform="translate(-155.786 -106.857)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+  </g>
+</svg>

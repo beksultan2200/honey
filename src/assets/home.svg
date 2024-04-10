@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.162" height="48.014" viewBox="0 0 60.162 48.014">
+  <g transform="translate(-2.779 -10.803)">
+    <g transform="translate(3.779 11.804)">
+      <path d="M102.549,74.005,94.132,59.564,73.468,48.209,52.8,59.564,44.387,74.005h3.644V93.817H98.9V74.005Z" transform="translate(-44.387 -48.209)" fill="none" stroke="#162e09" stroke-width="2"></path>
+      <path d="M56.218,54.266a2.646,2.646,0,1,1-2.648-2.652A2.657,2.657,0,0,1,56.218,54.266Z" transform="translate(-24.489 -37.848)" fill="none" stroke="#162e09" stroke-width="2"></path>
+      <g transform="translate(19.726 30.361)">
+        <path d="M58.627,55.719H49.266V70.966H67.974V55.719Z" transform="translate(-49.266 -55.719)" fill="none" stroke="#162e09" stroke-width="2"></path>
+        <line x2="18.708" y2="15.247" stroke="#162e09" stroke-width="2"></line>
+        <line x1="9.357" y2="7.623" transform="translate(0 7.623)" stroke="#162e09" stroke-width="2"></line>
+        <line x1="6.08" y2="4.958" transform="translate(12.628)" stroke="#162e09" stroke-width="2"></line>
+      </g>
+    </g>
+  </g>
+</svg>

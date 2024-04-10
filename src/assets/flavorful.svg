@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.904" height="50.939" viewBox="0 0 35.904 50.939">
+  <g transform="translate(1.001 1.002)">
+    <line x2="30.81" transform="translate(1.541 48.937)" stroke="#353a3a" stroke-width="2"></line>
+    <g transform="translate(3.467 28.424)">
+      <path d="M145.273,105.743l-5.444,14.248H166.8l-5.444-14.246" transform="translate(-139.829 -103.99)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+      <path d="M145.107,105.152a1.1,1.1,0,0,0-1.1,1.109v2.4h2.2v-2.4A1.1,1.1,0,0,0,145.107,105.152Z" transform="translate(-131.623 -105.152)" fill="#353a3a" stroke="rgba(0,0,0,0)" stroke-width="2"></path>
+      <path d="M145.337,108.831a1.45,1.45,0,0,0-1.45,1.45v3.146h2.9v-3.146A1.45,1.45,0,0,0,145.337,108.831Z" transform="translate(-131.853 -97.921)" fill="#353a3a" stroke="rgba(0,0,0,0)" stroke-width="2"></path>
+    </g>
+    <g transform="translate(0)">
+      <path d="M144.294,101.2a1.841,1.841,0,1,0,2.6-.006A1.838,1.838,0,0,0,144.294,101.2Z" transform="translate(-128.649 -85.552)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+      <g transform="translate(0 0.001)">
+        <g>
+          <path d="M141.865,96.358l-1.2,1.21-1.21,1.207a2.452,2.452,0,0,0,.329,3.864l10.934,7.728a3.214,3.214,0,0,0,1.779-.97,3.156,3.156,0,0,0,.961-1.77L145.73,96.69A2.452,2.452,0,0,0,141.865,96.358Z" transform="translate(-138.66 -95.568)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+        </g>
+        <g transform="translate(19.106 19.099)">
+          <path d="M156.692,116.014l1.21-1.213,1.2-1.207a2.443,2.443,0,0,0-.323-3.861l-10.937-7.725a3.152,3.152,0,0,0-1.77.964,3.115,3.115,0,0,0-.967,1.77l7.725,10.94A2.45,2.45,0,0,0,156.692,116.014Z" transform="translate(-145.103 -102.008)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+        </g>
+      </g>
+      <g>
+        <g transform="translate(0 19.109)">
+          <path d="M139.452,113.6l1.21,1.2,1.2,1.21a2.449,2.449,0,0,0,3.864-.332l7.725-10.931a3.168,3.168,0,0,0-.961-1.779,3.133,3.133,0,0,0-1.773-.955l-10.94,7.725A2.448,2.448,0,0,0,139.452,113.6Z" transform="translate(-138.66 -102.011)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+        </g>
+        <g transform="translate(19.1)">
+          <path d="M159.1,98.772l-1.2-1.207-1.21-1.207a2.456,2.456,0,0,0-3.867.329L145.1,107.622a3.167,3.167,0,0,0,.973,1.776,3.1,3.1,0,0,0,1.77.964l10.937-7.725A2.45,2.45,0,0,0,159.1,98.772Z" transform="translate(-145.101 -95.567)" fill="none" stroke="#353a3a" stroke-width="2"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
